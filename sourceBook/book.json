@@ -1,0 +1,6 @@
+{
+  "title": "juejin-book",
+  "description": "juejin-books from web",
+  "gitbook": "3.2.3",
+  "plugins": ["-sharing", "-search", "-lunr", "expandable-chapters", "splitter", "search-plus@^0.0.11"]
+}
